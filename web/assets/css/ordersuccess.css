@@ -1,0 +1,33 @@
+        body { 
+            background-color: #f8f9fa; 
+        }
+        
+        /* CSS cho thẻ Card thông báo */
+        .success-card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            background: white;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        /* CSS cho icon dấu tích xanh */
+        .icon-box {
+            width: 80px;
+            height: 80px;
+            background: #d1e7dd;
+            color: #198754;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+
+        /* CSS hiệu ứng hover cho Footer */
+        .hover-white:hover {
+            color: #fff !important;
+            transition: color 0.3s;
+        }

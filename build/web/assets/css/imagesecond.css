@@ -1,0 +1,32 @@
+    /* 1. Thiết lập khung chứa ảnh để định vị */
+    .product-img-wrap {
+        position: relative;
+        display: block;
+        overflow: hidden;
+    }
+
+    /* 2. Ảnh chính (Mặc định) */
+    .img-primary {
+        opacity: 1;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    /* 3. Ảnh phụ (Sẽ hiện khi hover) */
+    .img-secondary {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0; /* Ban đầu ẩn đi */
+        transition: opacity 0.3s ease-in-out;
+        object-fit: contain; /* Đảm bảo ảnh không bị méo */
+    }
+
+    /* 4. Hiệu ứng: Khi di chuột vào khung, hiện ảnh phụ */
+    .product-img-wrap:hover .img-secondary {
+        opacity: 1;
+    }
+.product-img-wrap:hover .img-primary {
+        opacity: 0;
+    }
