@@ -20,8 +20,7 @@ Website thương mại điện tử chuyên bán các loại tai nghe, được 
 * **IDE:** NetBeans 8.2 / Apache NetBeans.
 
 ## 📸 Ảnh Demo
-[![Xem video demo](<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/f2064b80-0b5f-4047-921c-a7173028d682" />
-)]([https://www.youtube.com/watch?v=ID_VIDEO_CUA_BAN](https://www.youtube.com/watch?v=JxphsZ-xyt4))
+[![Xem video demo](https://img.youtube.com/vi/JxphsZ-xyt4/0.jpg)](https://www.youtube.com/watch?v=JxphsZ-xyt4)
 
 ## ⚙️ Cài đặt & Chạy
 1.  Clone dự án: `git clone https://github.com/21t1080070-creator/web-headphone-java-servlet.git`
