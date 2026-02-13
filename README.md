@@ -19,7 +19,7 @@ Website thương mại điện tử chuyên bán các loại tai nghe, được 
 * **Database:** MySQL.
 * **IDE:** NetBeans 8.2 / Apache NetBeans.
 
-## 📸 Ảnh Demo
+## 📸 Video Demo
 [![Xem video demo](https://img.youtube.com/vi/JxphsZ-xyt4/0.jpg)](https://www.youtube.com/watch?v=JxphsZ-xyt4)
 
 ## ⚙️ Cài đặt & Chạy
