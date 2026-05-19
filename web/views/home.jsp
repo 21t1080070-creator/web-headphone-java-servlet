@@ -10,4 +10,5 @@
         <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/home.css"/>
     </head>
     <jsp:include page="/inc/_home.jsp"></jsp:include>
+    <h1>abc</h1>
 </html>
